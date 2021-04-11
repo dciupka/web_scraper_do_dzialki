@@ -1,0 +1,845 @@
+1618157909377	geckodriver	INFO	Listening on 127.0.0.1:49943
+1618157912457	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilepx6jyh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618157914521	Marionette	INFO	Listening on port 49951
+1618157914631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618157915804	Marionette	INFO	Stopped listening on port 49951
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618158105681	geckodriver	INFO	Listening on 127.0.0.1:50376
+1618158108739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileBXlVxu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158110863	Marionette	INFO	Listening on port 50384
+1618158110906	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618158111978	Marionette	INFO	Stopped listening on port 50384
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618158141155	geckodriver	INFO	Listening on 127.0.0.1:50429
+1618158144227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofile34Wd6h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158146326	Marionette	INFO	Listening on port 50437
+1618158146403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1618158166911	Marionette	INFO	Stopped listening on port 50437
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618158255439	geckodriver	INFO	Listening on 127.0.0.1:50511
+1618158258516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofile7jtrc1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158260449	Marionette	INFO	Listening on port 50519
+1618158260560	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618158284923	Marionette	INFO	Stopped listening on port 50519
+1618158286734	geckodriver	INFO	Listening on 127.0.0.1:50703
+1618158289825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilebYmng2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158291748	Marionette	INFO	Listening on port 50711
+1618158291864	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618158845146	Marionette	INFO	Stopped listening on port 50711
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileZ8IbP2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158402071	Marionette	INFO	Listening on port 50897
+1618158402201	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618158562350	Marionette	INFO	Stopped listening on port 50897
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofile3Xh77K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158449231	Marionette	INFO	Listening on port 50978
+1618158449739	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618158560835	Marionette	INFO	Stopped listening on port 50978
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618158564196	geckodriver	INFO	Listening on 127.0.0.1:51063
+1618158567299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileo3TCEN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158569339	Marionette	INFO	Listening on port 51071
+1618158569464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618158585743	Marionette	INFO	Stopped listening on port 51071
+1618158603731	geckodriver	INFO	Listening on 127.0.0.1:51143
+1618158606795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofile6gXL1g"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158608742	Marionette	INFO	Listening on port 51151
+1618158608863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1618158848005	Marionette	INFO	Stopped listening on port 51151
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilebgZvU6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158660327	Marionette	INFO	Listening on port 51295
+1618158660392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1618158744856	Marionette	INFO	Stopped listening on port 51295
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618158748274	geckodriver	INFO	Listening on 127.0.0.1:51445
+1618158751360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofiletxqUm8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158753515	Marionette	INFO	Listening on port 51453
+1618158753535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+1618158841740	Marionette	INFO	Stopped listening on port 51453
+8158807119	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileuHunZk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158809259	Marionette	INFO	Listening on port 51670
+1618158809298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1618158831826	Marionette	INFO	Stopped listening on port 51670
+1618158850684	geckodriver	INFO	Listening on 127.0.0.1:52018
+1618158853754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilewXWKis"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158855836	Marionette	INFO	Listening on port 52026
+1618158855911	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618158882518	Marionette	INFO	Stopped listening on port 52026
+1618158884417	geckodriver	INFO	Listening on 127.0.0.1:52162
+1618158887523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileQRLGto"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618158889602	Marionette	INFO	Listening on port 52170
+1618158889684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618158902399	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.olx.pl"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163065763	Marionette	INFO	Stopped listening on port 52170
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileXlLqul"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159221912	Marionette	INFO	Listening on port 52473
+1618159221927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159234961	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618159303899	Marionette	INFO	Stopped listening on port 52473
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618159306363	geckodriver	INFO	Listening on 127.0.0.1:52694
+1618159309429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileWeCyVE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159311493	Marionette	INFO	Listening on port 52702
+1618159311597	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159324436	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618159438669	Marionette	INFO	Stopped listening on port 52702
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618159447829	geckodriver	INFO	Listening on 127.0.0.1:52946
+1618159450903	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileAkVYgI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159453015	Marionette	INFO	Listening on port 52955
+1618159453067	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159466236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163067385	Marionette	INFO	Stopped listening on port 52955
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileCwKlMX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159553086	Marionette	INFO	Listening on port 53181
+1618159553480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159566370	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: https://s0.2mdn.net/9330198/354672981168706/SP21_HALO_DG_HTML5_160x600-D-1/index.html, line 252: TypeError: studio.Enabler is undefined
+1618159612278	Marionette	INFO	Stopped listening on port 53181
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618159862116	geckodriver	INFO	Listening on 127.0.0.1:53418
+1618159865156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilexKpKfz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159867442	Marionette	INFO	Listening on port 53426
+1618159867827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159880571	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618159947475	Marionette	INFO	Stopped listening on port 53421618159948123	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilepNtgnf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159950293	Marionette	INFO	Listening on port 53625
+1618159950796	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159955547	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163068073	Marionette	INFO	Stopped listening on port 53625
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileb1xZ8I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618159976901	Marionette	INFO	Listening on port 53804
+1618159977392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618159982347	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618160167802	Marionette	INFO	Stopped listening on port 53804
+1618160171484	geckodriver	INFO	Listening on 127.0.0.1:54137
+1618160174546	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileNKIQzu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618160176618	Marionette	INFO	Listening on port 54145
+1618160176699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618160216955	Marionette	INFO	Stopped listening on port 54141618160218291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileCCf92z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618160220381	Marionette	INFO	Listening on port 54379
+1618160220464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618160234743	Marionette	INFO	Stopped listening on port 54379
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618160574627	geckodriver	INFO	Listening on 127.0.0.1:54667
+1618160577699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilehz4Bca"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618160579852	Marionette	INFO	Listening on port 54675
+1618160580358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618161210490	Marionette	INFO	Stopped listening on port 54675
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileU81LP9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618160734648	Marionette	INFO	Listening on port 54965
+1618160735052	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618160739734	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet827, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21\nCanCloseWindow@chrome://browser/content/browser.js:7838:36\nWindowIsClosing@chrome://browser/content/browser.js:7855:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3072:7\noncommand@chrome://browser/content/browser.xhtml:1:1\n", "resource://devtools/shared/protocol/Front.js", 99))
+console.warn: "fetching media rules failed" (new Error("Connection closed, pending request to server0.conn0.child3/stylesheet828, type getMediaRules failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:288:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nonStyleSheetAdded@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:17:37\nmodule.exports/<@resource://devtools/shared/resources/legacy-listeners/stylesheet.js:113:28\n_emit@resource://devtools/shared/event-emitter.js:226:34\nemit@resource://devtools/shared/event-emitter.js:172:18\nemit@resource://devtools/shared/event-emitter.js:324:18\nonPacket@resource://devtools/shared/protocol/Front.js:332:13\nonPacket@resource://devtools/client/devtools-client.js:489:13\nsend/<@resource://devtools/shared/transport/local-transport.js:68:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\npermitUnload@chrome://global/content/elements/browser-custom-element.js:1709:21\nCanCloseWindow@chrome://browser/content/browser.js:7838:36\nWindowIsClosing@chrome://browser/content/browser.js:7855:7\nBrowserTryToCloseWindow@chrome://browser/content/browser.js:3072:7\noncommand@chrome://browser/content/browser.xhtml:1:1\n", "resource://devtools/shared/protocol/Front.js", 99))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn0.watcher4, type getParentBrowsingContextID failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:288:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+getBrowsingContextTarget@resource://devtools/client/fronts/watcher.js:125:48
+
+1618161047844	Marionette	INFO	Stopped listening on port 54965
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618161050760	geckodriver	INFO	Listening on 127.0.0.1:55639
+1618161053800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofiletohKVx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161055869	Marionette	INFO	Listening on port 55647
+1618161055970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161060992	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 3007: TypeError: this.win is null
+console.error: "stylesheets actor: fetch failed for https://static.olx.pl/static/olxpl/packed/sw5ecba70dfcbcda7a549bf63d8590b89b.css, using system principal instead."
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1618161209309	Marionette	INFO	Stopped listening on port 55647
+1618161256886	geckodriver	INFO	Listening on 127.0.0.1:55937
+1618161259979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileEH2cue"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161262019	Marionette	INFO	Listening on port 55945
+1618161262036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163068645	Marionette	INFO	Stopped listening on port 55945
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofile7YrzMe"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161463309	Marionette	INFO	Listening on port 56157
+1618161463369	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161560609	Marionette	INFO	Stopped listening on port 56157
+8161546437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileOxJpew"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161548565	Marionette	INFO	Listening on port 56366
+1618161548616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161560167	Marionette	INFO	Stopped listening on port 56366
+1618161654192	geckodriver	INFO	Listening on 127.0.0.1:56551
+1618161657280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileYnxGgm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161659310	Marionette	INFO	Listening on port 56559
+1618161659431	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+1618161968945	Marionette	INFO	Stopped listening on port 56559
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+w38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161810579	Marionette	INFO	Stopped listening on port 56780
+1618161831277	geckodriver	INFO	Listening on 127.0.0.1:57028
+1618161834347	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofiledDhDqK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161836507	Marionette	INFO	Listening on port 57036
+1618161836982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161841889	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618161968255	Marionette	INFO	Stopped listening on port 57036
+8161864629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileFZjBYG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161866797	Marionette	INFO	Listening on port 57260
+1618161867313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161872414	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: https://tpc.googlesyndication.com/sadbundle/$csp%3Der3$/14341514328178212911/160x600/GOOGLE-160x600-kod.html#t=5166717232393510422&p=https%3A%2F%2F944daa44c45704f3f284b505ab218642.safeframe.googlesyndication.com, line 3: SyntaxError: illegal character U+200B
+1618161967266	Marionette	INFO	Stopped listening on port 57260
+8161915384	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilegXEeHB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161917599	Marionette	INFO	Listening on port 57478
+1618161918036	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618161923032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618161966154	Marionette	INFO	Stopped listening on port 57478
+1618161971355	geckodriver	INFO	Listening on 127.0.0.1:57773
+1618161974392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilebm6anX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618161976345	Marionette	INFO	Listening on port 57781
+1618161976444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618162171736	Marionette	INFO	Stopped listening on port 57781
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618162300770	geckodriver	INFO	Listening on 127.0.0.1:58084
+1618162303845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofile4V8FN1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618162305833	Marionette	INFO	Listening on port 58092
+1618162305901	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618162310771	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 186: TypeError: rule is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:172:37\nonPacket@resource://devtools/server/devtools-server-connection.js:379:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:68:16\n"
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163069427	Marionette	INFO	Stopped listening on port 58092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileIhqyHK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618162399170	Marionette	INFO	Listening on port 58336
+1618162399631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618162404670	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163070374	Marionette	INFO	Stopped listening on port 58336
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofilexqawdy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618162527252	Marionette	INFO	Listening on port 58610
+1618162527294	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618162532517	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163071078	Marionette	INFO	Stopped listening on port 58610
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofilee0Acve"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618162617139	Marionette	INFO	Listening on port 58858
+1618162617603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618162622484	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618163071780	Marionette	INFO	Stopped listening on port 58858
+8162679095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileD40tY6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618162681580	Marionette	INFO	Listening on port 59110
+1618162681745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618163061647	Marionette	INFO	Stopped listening on port 59111618163063448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileUINGqo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163065877	Marionette	INFO	Listening on port 59614
+1618163066131	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163071462	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618163089874	Marionette	INFO	Stopped listening on port 59611618163091374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileY8SLaU"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163093340	Marionette	INFO	Listening on port 59872
+1618163093427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163098554	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163840559	Marionette	INFO	Stopped listening on port 59872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileAO8ngk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163185123	Marionette	INFO	Listening on port 60140
+1618163185259	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618163839930	Marionette	INFO	Stopped listening on port 60140
+firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofile6RsmOi"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163289056	Marionette	INFO	Listening on port 60367
+1618163289137	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163296933	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618163320699	Marionette	INFO	Stopped listening on port 60367
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618163339593	geckodriver	INFO	Listening on 127.0.0.1:60569
+1618163342666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileSQzxCw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163344811	Marionette	INFO	Listening on port 60578
+1618163344841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163838112	Marionette	INFO	Stopped listening on port 60578
+8163386389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilew7Uw8V"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163388388	Marionette	INFO	Listening on port 60810
+1618163388434	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+JavaScript error: resource://devtools/client/inspector/rules/utils/utils.js, line 192: TypeError: rule is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1618163557582	Marionette	INFO	Stopped listening on port 60810
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileLOL0xt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163499775	Marionette	INFO	Listening on port 61050
+1618163499826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163557056	Marionette	INFO	Stopped listening on port 61050
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilev7w6zZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163534403	Marionette	INFO	Listening on port 61264
+1618163534474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1618163556347	Marionette	INFO	Stopped listening on port 61261618163557553	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilejvNzFm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163559675	Marionette	INFO	Listening on port 61506
+1618163559709	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163590973	Marionette	INFO	Stopped listening on port 61501618163591696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileuozLMI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163593774	Marionette	INFO	Listening on port 61732
+1618163593846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+1618163816472	Marionette	INFO	Stopped listening on port 61732
+1618163844463	geckodriver	INFO	Listening on 127.0.0.1:62338
+1618163847543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofilemK3nhf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618163849457	Marionette	INFO	Listening on port 62346
+1618163849594	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618163854494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1618164491192	Marionette	INFO	Stopped listening on port 62346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+p\\rust_mozprofileME7RZV"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618164052606	Marionette	INFO	Listening on port 62682
+1618164052632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618164057155	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1618164490668	Marionette	INFO	Stopped listening on port 62682
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\dc\\AppData\\Local\\Temp\\rust_mozprofileqGozan"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618164112737	Marionette	INFO	Listening on port 62929
+1618164112800	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw4f14ad77114064713584ecdde5d01fcf.js, line 118: WebGL context was lost.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+1618164117719	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:231:19
+TimedPromise@chrome://marionette/content/sync.js:216:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:433:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: copyTexSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Texture has not been initialized prior to a partial upload, forcing the browser to clear it. This may be slow.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Tex image TEXTURE_2D level 0 is incurring lazy initialization.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: WebGL warning: texSubImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: , line 0: After reporting 32, no further warnings will be reported for this WebGL context.
+JavaScript warning: https://static.olx.pl/static/olxpl/packed/sw38132963b7b052e11b6901c502a84fd8.js, line 1: unreachable code after return statement
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1618164489292	Marionette	INFO	Stopped listening on port 62929
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
